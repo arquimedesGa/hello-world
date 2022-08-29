@@ -1,2 +1,2 @@
 # hello-world
-This is a Test for Begining students at Cubos Academy. 
+This is a Test for Begining students at Cubos Academy. :)
